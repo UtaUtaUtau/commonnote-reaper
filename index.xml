@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="Commonnote" commit="c33ef2ba3d37dd9ffe34263c87363c5e236a3b7e">
   <category name="commonnote-reaper">
+    <reapack name="Commonnote Copy.lua" type="script" desc="Commonnote Copy">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 \outlinelevel0 \b \fs34 Commonnote Paste\par}
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 For copying selected notes to clipboard in the {\field{\*\fldinst{HYPERLINK "https://github.com/ExpressiveLabs/commonnote"}}{\fldrslt{\ul
+commonnote
+}}}
+ format\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="UtaUtaUtau" time="2026-11-06T17:38:02Z">
+        <source main="main">https://github.com/UtaUtaUtau/commonnote-reaper/raw/1801bf95ae2207e6a68c2f98bc1f4eecb4ceb92e/commonnote-reaper/Commonnote%20Copy.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Commonnote Paste.lua" type="script" desc="Commonnote Paste">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 \outlinelevel0 \b \fs34 Commonnote Paste\par}
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 For pasting in {\field{\*\fldinst{HYPERLINK "https://github.com/ExpressiveLabs/commonnote"}}{\fldrslt{\ul
+commonnote
+}}}
+ data into the MIDI editor\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="UtaUtaUtau" time="2026-11-06T17:38:02Z">
+        <source main="main">https://github.com/UtaUtaUtau/commonnote-reaper/raw/1801bf95ae2207e6a68c2f98bc1f4eecb4ceb92e/commonnote-reaper/Commonnote%20Paste.lua</source>
+      </version>
+    </reapack>
     <reapack name="json.lua" type="script">
       <version name="0.1.2" time="2026-11-06T17:47:14Z">
         <source main="main">https://github.com/UtaUtaUtau/commonnote-reaper/raw/c33ef2ba3d37dd9ffe34263c87363c5e236a3b7e/commonnote-reaper/json.lua</source>
       </version>
     </reapack>
   </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+{\*\listtable{\list\listtemplateid1{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelindent0{\leveltext\'01\u8226 ?;}{\levelnumbers;}\fi-360\li360\lin360 }{\listname ;}\listid1}
+{\list\listtemplateid2{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelindent0{\leveltext\'01\u8226 ?;}{\levelnumbers;}\fi-360\li360\lin360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelindent0{\leveltext\'01\u8226 ?;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 \outlinelevel0 \b \fs34 commonnote-reaper\par}
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 ReaScripts for supporting {\field{\*\fldinst{HYPERLINK "https://github.com/ExpressiveLabs/commonnote"}}{\fldrslt{\ul
+commonnote
+}}}
+ as a cross-application copy paste specification.\par}
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 \outlinelevel0 \b \fs34 Installation\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 1.\tab} Install {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
+ReaPack
+}}}
+.\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 2.\tab} Open REAPER and go to Extensions > ReaPack > Import repositories...\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 3.\tab} Paste this URL: https://github.com/UtaUtaUtau/commonnote-reaper/raw/main/index.xml\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 4.\tab} Go to Extensions > ReaPack > Browse packages...\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 5.\tab} Search for SWS/S&M extensions and install it.\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 6.\tab} Search for Commonnote and install all the packages.\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 7.\tab} Restart REAPER.\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 8.\tab} (Optional) Bind a keybind to both actions.\par}
+{\pard \ql \f0 \fs24 \sa0 \li720 \fi-360\ls2\ilvl1\tx360 {\listtext\tab \endash \tab} Ctrl + Alt + Shift + C/V is free in REAPER's default keybinds.\sa180\sa180\par}
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 \outlinelevel0 \b \fs34 Extra\par}
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 This project includes {\field{\*\fldinst{HYPERLINK "https://github.com/rxi/json.lua"}}{\fldrslt{\ul
+json.lua
+}}}
+ in its entirety for JSON encoding/decoding.\par}
+}
+]]></description>
+  </metadata>
 </index>
