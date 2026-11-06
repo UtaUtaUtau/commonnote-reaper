@@ -66,7 +66,7 @@ ReaPack
 {\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 3.\tab} Paste this URL: https://github.com/UtaUtaUtau/commonnote-reaper/raw/main/index.xml\par}
 {\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 4.\tab} Go to Extensions > ReaPack > Browse packages...\par}
 {\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 5.\tab} Search for SWS/S&M extensions and install it.\par}
-{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 6.\tab} Search for Commonnote and install all the packages.\par}
+{\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 6.\tab} Search for commonnote-reaper and install all the packages listed.\par}
 {\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 7.\tab} Restart REAPER.\par}
 {\pard \ql \f0 \fs24 \sa0 \li360 \fi-360\ls1\ilvl0\tx360 {\listtext\tab 8.\tab} (Optional) Bind a keybind to both actions.\par}
 {\pard \ql \f0 \fs24 \sa0 \li720 \fi-360\ls2\ilvl1\tx360 {\listtext\tab \endash \tab} Ctrl + Alt + Shift + C/V is free in REAPER's default keybinds.\sa180\sa180\par}
