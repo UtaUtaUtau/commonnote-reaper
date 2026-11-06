@@ -13,3 +13,7 @@ ReaScripts for supporting [commonnote](https://github.com/ExpressiveLabs/commonn
 7. Restart REAPER.
 8. (Optional) Bind a keybind to both actions.
    - Ctrl + Alt + Shift + C/V is free in REAPER's default keybinds.
+
+# Extra
+
+This project includes [json.lua](https://github.com/rxi/json.lua) in its entirety for JSON encoding/decoding.
