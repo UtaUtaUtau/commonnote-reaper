@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Commonnote" commit="c33ef2ba3d37dd9ffe34263c87363c5e236a3b7e">
+  <category name="commonnote-reaper">
+    <reapack name="json.lua" type="script">
+      <version name="0.1.2" time="2026-11-06T17:47:14Z">
+        <source main="main">https://github.com/UtaUtaUtau/commonnote-reaper/raw/c33ef2ba3d37dd9ffe34263c87363c5e236a3b7e/commonnote-reaper/json.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
